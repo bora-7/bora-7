@@ -7,8 +7,6 @@ I'm a full stack web developer with an added interest on :video_game: **game** a
 
 👯 I'm looking to collaborate on any fun project!
 
-:mailbox_with_mail: You can message me on Discord: B-Rabbid#7445
-
 :guitar: Fun fact: I also play guitar and enjoy jamming with others!
 <!--
 **bora-7/bora-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
