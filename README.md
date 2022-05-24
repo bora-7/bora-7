@@ -1,13 +1,11 @@
 ### Hi there 👋
 I'm a full stack web developer with an added interest on :video_game: **game** and :computer: **software** development. 
 
-:houses: I'm the creator of the [**Warwick Accommodation Suggester**](https://www.accomsuggester.co.uk/)
-
-🌱 I'm currently learning Python and JavaScript
+🌱 I'm currently learning next.js and typescript
 
 👯 I'm looking to collaborate on any fun project!
 
-:guitar: Fun fact: I also play guitar and enjoy jamming with others!
+:guitar: I'm specifically interested in projects that involve music
 <!--
 **bora-7/bora-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
