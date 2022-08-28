@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a full stack web developer with an added interest on :video_game: **game** and :computer: **software** development. 
 
-🌱 I'm currently learning next.js and typescript
+🌱 I'm currently working on the Warwick BandSoc society website, I've previously worked on https://accomsuggester.netlify.app/
 
 👯 I'm looking to collaborate on any fun project!
 
