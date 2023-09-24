@@ -4,7 +4,7 @@ I'm Bora. You might know me from some of my personal projects:
   - [Bandsoc Booking Page](https://booking.warwickbandsoc.co.uk/)
   - thescene.io (in development)
 
-- 📫 How to reach me:
+📫 How to reach me:
   - tboraakyuz@gmail.com (business inqueries only)
   - @brabbid on discord for other stuff
 <!--
