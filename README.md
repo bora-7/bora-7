@@ -1,11 +1,12 @@
-### Hi there 👋
-I'm a full stack web developer with an added interest on :video_game: **game** and :computer: **software** development. 
+### Hi there👋
+I'm Bora. You might know me from some of my personal projects:
+  - [Warwick Accommodation Suggester](https://accomsuggester.netlify.app/)
+  - [Bandsoc Booking Page](https://booking.warwickbandsoc.co.uk/)
+  - thescene.io (in development)
 
-🌱 I'm currently working on the [Warwick BandSoc](https://www.warwickbandsoc.co.uk/) website, I've previously worked on [Accommodation Suggester](https://accomsuggester.netlify.app/)
-
-👯 I'm looking to collaborate on any fun project!
-
-:guitar: I'm specifically interested in projects that involve music
+- 📫 How to reach me:
+  - tboraakyuz@gmail.com (business inqueries only)
+  - @brabbid on discord for other stuff
 <!--
 **bora-7/bora-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
